@@ -22,5 +22,5 @@ Make sure udev permissions are set correctly. In ubunut 14.04
   **unplug - replug falcon**
 
 ### Usage
-Run any bin from the pacakge and use rostopic list to see the exposed topics
+Run any binary in the src folder using rosrun ros_falcon <binary name> then expose topics using rostopic list
 
